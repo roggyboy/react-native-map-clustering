@@ -2,14 +2,12 @@
 
 React Native module that handles map clustering for you.
 
-Works with **Expo** and **react-native-cli** 🚀
+Works with **Expo 53+** and **react-native-cli** 🚀
 
-This repo is proudly sponsored by:
+## This repo is forked from 
+https://github.com/tomekvenits/react-native-map-clustering
 
-<a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
-  <img src="https://raw.githubusercontent.com/venits/react-native-market/master/assets/banner.png" width="280"><br />
-  React Native Templates & Starter Kits and Apps for easier start.
-</a>
+I have made som improvements for cluster logics and markers not showing in map.
 
 ## Demo
 
